@@ -1,7 +1,5 @@
-[README_1.md](https://github.com/user-attachments/files/31755958/README_1.md)
-## Hi there 👋
-
-<!--<h1 align="center">Olá, eu sou o Tr1ckW1n 👋</h1>
+[README_1.md](https://github.com/user-attachments/files/31756044/README_1.md)
+<h1 align="center">Olá, eu sou o Tr1ckW1n 👋</h1>
 
 <p align="center">
   Estudante de <b>Engenharia da Computação</b> (Bacharelado), construindo projetos web do zero enquanto aprendo.
@@ -50,17 +48,3 @@ Plataforma para conectar alunos sem grupo a colegas com vagas abertas em trabalh
 ---
 
 <p align="center"><i>Perfil em construção — sempre aprendendo algo novo.</i></p>
-
-**Tr1ckW1n/Tr1ckW1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
